@@ -1,2 +1,0 @@
-# pomelo
-Just a repository
